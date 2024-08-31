@@ -6,6 +6,7 @@ permalink: /about/
 
 ## Hello, I'm Gabriela!
 
+
 I'm a junior at Del Norte High School. I'm taking CSP to improve my programming skills.
 
 ### Fun Facts:
@@ -15,7 +16,12 @@ I'm a junior at Del Norte High School. I'm taking CSP to improve my programming 
 - My favorite foods are pizza and ice cream
 - My hobbies are: reading, drawing, baking, sewing, and traveling
 
-### Pictures of me: 
+### Photos: 
+![img](../images/friends.png)
+![img](../images/hoco_pic1.png)
+![img](../images/tennis_friends.png)
+![img](../images/lili_1.png)
+
 
 ### Skills & Expertise
 
