@@ -19,4 +19,4 @@ permalink: /tools/
 - used command make
     - it didn't work the first time so I had to reinstall Ruby and nbconvert
 
-### Verify tools:
+### Frontend Development:
