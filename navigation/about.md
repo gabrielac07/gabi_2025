@@ -15,6 +15,7 @@ I'm a junior at Del Norte High School. I'm taking CSP to improve my programming 
 - I play varsity tennis
 - My favorite foods are pizza and ice cream
 - My hobbies are: reading, drawing, baking, sewing, and traveling
+- My dad was born in the US but my mom was born and lived in Brazil
 
 ### Photos: 
 ![img](../images/friends.png)

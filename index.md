@@ -6,10 +6,10 @@ hide: true
 ---
 <style>
   .animated-button {
-    background-color: #ff5722; /* Orange background */
-    color: white;
+    background-color: ##4363e6; 
+    color: black;
     border: none;
-    border-radius: 25px; /* Circular corners */
+    border-radius: 25px;
     padding: 12px 24px;
     font-size: 16px;
     cursor: pointer;
@@ -25,7 +25,7 @@ hide: true
     left: 50%;
     width: 300%;
     height: 300%;
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(79, 105, 209, 0.5);
     transition: width 0.4s, height 0.4s, top 0.4s, left 0.4s;
     border-radius: 50%;
     z-index: 0;
@@ -40,7 +40,7 @@ hide: true
   }
 
   .animated-button:hover {
-    color: #ff5722;
+    color: #0c33cf;
   }
 
   .animated-button span {
@@ -50,15 +50,24 @@ hide: true
 </style>
 
 
+
 <p>This button lets you learn about my favorite sport, tennis:</p>
 <button class="animated-button" onclick="window.location.href='http://127.0.0.1:4100/gabi_2025/tennis/'">Tennis</button><br><br>
 
 <p>This button lets you learn about one of my favorite places to travel to:</p>
 <button class="animated-button" onclick="window.location.href='http://127.0.0.1:4100/gabi_2025/brazil/'">Brazil</button> <br><br>
 
-<p>This button does nothing<p>
-<button class="animated-button" type="button">Click Me</button><br><br>
+<p>This button takes you to learn about a dog breed:<p>
+<button class="animated-button" onclick="window.location.href='http://127.0.0.1:4100/gabi_2025/spaniels/'">English Cocker Spaniels</button> <br><br>
 
 <img src="https://media0.giphy.com/media/XuL4Zlq33sCTC/giphy.gif?cid=6c09b952roqx9x1uhiur86tdfrwrq0q7egmey7t2b4mz51p1&ep=v1_gifs_search&rid=giphy.gif&ct=s" alt="mario">
+
+
+<br><br>
+
+
+
+
+
 
 
