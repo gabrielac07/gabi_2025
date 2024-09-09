@@ -49,7 +49,8 @@ hide: true
   }
 </style>
 
-
+<p>This button takes you to my partner's Github Page:</p>
+<button class="animated-button" onclick="window.location.href='https://jowan3.github.io/Jowan_2025'">Jowan's page</button><br><br>
 
 <p>This button lets you learn about my favorite sport, tennis:</p>
 <button class="animated-button" onclick="window.location.href='http://127.0.0.1:4100/gabi_2025/tennis/'">Tennis</button><br><br>
