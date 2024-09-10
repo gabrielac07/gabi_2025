@@ -8,10 +8,13 @@ permalink: /spaniels/
 I have owned two of these types of dogs, and I currently have a third one named Lili.
 
 ## Fun facts about them:
-- The longest tennis match in history lasted 11 hours and 5 minutes spread over 3 days.
-- Tennis balls were originally white, but they were changed to yellow in 1972 to make them more visible on TV broadcasts.
-- The fastest serve in tennis was recorded at 263 km/h (163.7 mph).
-- The term "love" in tennis, meaning zero, is thought to come from the French word "l'œuf," meaning "egg," because an egg looks like a zero.
+- Royal Connection: They were one of the favorite breeds of Princess Diana!
+- Bird Hunters: Originally bred as hunting dogs, they excel at flushing birds, especially woodcock (hence the name "Cocker").
+- Wagging Tails: They are known for their constantly wagging tails, especially when they're excited or happy.
+- Great Swimmers: With webbed feet, English Cocker Spaniels are natural swimmers and love the water.
+- Long Ears for a Reason: Their floppy ears help stir up scents when they are close to the ground, making them excellent trackers.
+- Super Friendly: They are known for their cheerful and affectionate personalities, often called "merry cockers."
+- Big Appetite: Cocker Spaniels are food lovers and can be prone to overeating, so it's important to watch their diet!
 
 ## Photos:
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3sWTIdVnG10n1S4JHyN5la7C_DDyKL40Cg&s)
