@@ -6,8 +6,8 @@ hide: true
 ---
 <style>
   .animated-button {
-    background-color: ##4363e6; 
-    color: black;
+    background-color: #155f91; 
+    color: white;
     border: none;
     border-radius: 25px;
     padding: 12px 24px;
@@ -15,7 +15,7 @@ hide: true
     cursor: pointer;
     position: relative;
     overflow: hidden;
-    transition: color 0.4s;
+    transition: color 0.6s, background-color 0.4s; /* Add transition for background-color */
   }
 
   .animated-button::before {
@@ -25,7 +25,7 @@ hide: true
     left: 50%;
     width: 300%;
     height: 300%;
-    background: rgba(79, 105, 209, 0.5);
+    background: rgba(21, 97, 143, 0.3);
     transition: width 0.4s, height 0.4s, top 0.4s, left 0.4s;
     border-radius: 50%;
     z-index: 0;
@@ -40,7 +40,8 @@ hide: true
   }
 
   .animated-button:hover {
-    color: #0c33cf;
+    color: white; 
+    background-color: #15935d;
   }
 
   .animated-button span {
@@ -48,6 +49,7 @@ hide: true
     z-index: 1;
   }
 </style>
+
 
 <p>This button takes you to my partner's Github Page:</p>
 <button class="animated-button" onclick="window.location.href='https://jowan3.github.io/Jowan_2025'">Jowan's page</button><br><br>

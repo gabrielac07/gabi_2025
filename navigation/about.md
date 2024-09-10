@@ -7,7 +7,7 @@ permalink: /about/
 ## Hello, I'm Gabriela! &#x1F600;
 
 
-I'm a junior at Del Norte High School. I'm taking CSP to improve my programming skills.
+I'm a junior at Del Norte High School, and I'm taking CSP to improve my programming skills.
 
 ### Fun Facts:
 - I live with my parents, a sister, a brother, and a dog

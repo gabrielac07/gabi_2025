@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tools
+title: Process
 permalink: /tools/
 ---
 
@@ -19,10 +19,11 @@ permalink: /tools/
 - used command make
     - it didn't work the first time so I had to reinstall Ruby and nbconvert
 
-### Creating Webpage:
+### Creating the Webpage:
 - I git cloned the repository and opened it on vscode
 - customized the about page 
 - created this page called "tools" and added it to the navigation bar
 - added mario to the home page
 - created three buttons that lead to pages
 - changed theme and fixed details
+- went through checklist and added more hacks
