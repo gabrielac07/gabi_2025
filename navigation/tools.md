@@ -27,3 +27,8 @@ permalink: /tools/
 - created three buttons that lead to pages
 - changed theme and fixed details
 - went through checklist and added more hacks
+
+### Main Difficulties:
+- downloading all the right tools, especially Jupyter and Ruby
+- getting the 'make' command to work
+- changing and customizing the theme

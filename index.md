@@ -54,19 +54,19 @@ hide: true
 <p>This button takes you to my partner's Github Page:</p>
 <button class="animated-button" onclick="window.location.href='https://jowan3.github.io/Jowan_2025'">Jowan's page</button><br><br>
 
-<p>This button lets you learn about my favorite sport, tennis:</p>
-<button class="animated-button" onclick="window.location.href='http://127.0.0.1:4100/gabi_2025/tennis/'">Tennis</button><br><br>
+<p>This button takes you to a jupyter notebook about my interests:</p>
+<button class="animated-button" onclick="window.location.href='http://127.0.0.1:4100/gabi_2025/interests/'">Click here</button><br><br>
 
-<p>This button lets you learn about one of my favorite places to travel to:</p>
-<button class="animated-button" onclick="window.location.href='http://127.0.0.1:4100/gabi_2025/brazil/'">Brazil</button> <br><br>
+<p>This button takes you to a game using a javascript cell:</p>
+<button class="animated-button" onclick="window.location.href='http://127.0.0.1:4100/gabi_2025/game/'" >Play now</button> <br><br>
 
-<p>This button takes you to learn about a dog breed:<p>
-<button class="animated-button" onclick="window.location.href='http://127.0.0.1:4100/gabi_2025/spaniels/'">English Cocker Spaniels</button> <br><br>
+<p>This button takes you to a Notebook where I describe what I did:<p>
+<button class="animated-button" onclick="window.location.href='http://127.0.0.1:4100/gabi_2025/process/'">Click here</button> <br><br>
+
 
 <img src="https://media0.giphy.com/media/XuL4Zlq33sCTC/giphy.gif?cid=6c09b952roqx9x1uhiur86tdfrwrq0q7egmey7t2b4mz51p1&ep=v1_gifs_search&rid=giphy.gif&ct=s" alt="mario">
 
 
-<br><br>
 
 
 
