@@ -42,6 +42,16 @@ I'm a junior at Del Norte High School, and I'm taking CSP to improve my programm
 - **GitHub:** <a href="URL">https://github.com/gabrielac07</a>
 - **Email:** gabic17466@gmail.com
 
+
+<script src="https://utteranc.es/client.js"
+        repo="nighthawkcoders/portfolio_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---
 
 *Thanks for visiting!* 😊
