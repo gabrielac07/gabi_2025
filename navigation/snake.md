@@ -4,7 +4,6 @@ title: Snake
 description: Move the arrow keys to move the snake and eat the apples.
 permalink: /snake/
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -58,6 +57,9 @@ permalink: /snake/
         document.addEventListener("keydown", direction);
 
         function direction(event) {
+            if ([37, 38, 39, 40].includes(event.keyCode)) {
+                event.preventDefault(); // Prevent default behavior of arrow keys
+            }
             if (event.keyCode === 37 && d !== "RIGHT") {
                 d = "LEFT";
             } else if (event.keyCode === 38 && d !== "DOWN") {

@@ -9,7 +9,7 @@ permalink: /calculator/
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculator</title>
+    <title>Binary Calculator</title>
     <style>
         body {
             margin: 0;
@@ -203,7 +203,7 @@ permalink: /calculator/
             }
             
             addToHistory(`${previousInput} ${operation} ${currentInput || ''} = ${result}`);
-            currentInput = result;
+            currentInput = result.toString(2); // Convert result to binary
             operation = null;
             previousInput = '';
             updateDisplay();

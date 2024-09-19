@@ -4,7 +4,6 @@ title: Click Counter
 description: Click the button to get more money. Buy workers to automatically increase.
 permalink: /counter/
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -99,7 +98,7 @@ permalink: /counter/
 </head>
 <body>
     <div class="container">
-        <h1>Button Click Game with Shop</h1>
+        <h1>Click the button</h1>
         <div id="countDisplay">0</div>
         <button class="click-btn" onclick="incrementCount()">Click Me!</button>
         <br />
