@@ -71,7 +71,6 @@ hide: true
                 <li><a href="http://127.0.0.1:4100/gabi_2025/calculator/">Binary Calculator</a></li>
                 <li><a href="http://127.0.0.1:4100/gabi_2025/snake/">Snake Game</a></li>
             </ul>
-        <li><a href="https://jowan3.github.io/Jowan_2025">Joan's Github Page</a>
         </li>
     </ul>
 </nav>
