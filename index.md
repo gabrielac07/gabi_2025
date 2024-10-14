@@ -133,6 +133,15 @@ hide: true
                 <li><a href="http://127.0.0.1:4100/gabi_2025/snake/">Snake Game</a></li>
             </ul>
         </li>
+        <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/fundamentals">Sprint 2 Homework</a>
+            <ul>
+                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.1-3.4/">3.1 and 3.4</a></li>
+                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.3-3.5/">3.3 and 3.5</a></li>
+                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.6-3.7/">3.6 and 3.7</a></li>
+                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.8/">3.8</a></li>
+                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.10/">3.10</a></li>
+            </ul>
+        </li>
     </ul>
 </nav>
 
