@@ -146,37 +146,6 @@ permalink: /sprint2/
         }
     </style>
 </head>
-
-<body>
-    <nav>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Resources</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </nav>
-
-    <h1>Part 1 - Fundamentals</h1>
-
-    <div class="container">
-        <h2>This Unit Overview</h2>
-        <p>In this unit, you will cover the foundational concepts of programming, which are crucial for understanding how to develop and think about algorithms and logic in coding. Here are the key topics:</p>
-
-        <ul>
-            <li><strong>3.1 Variables:</strong> Learn about variables, which are used to store data that can be reused and manipulated throughout the program.</li>
-            <li><strong>3.2 Data Abstraction:</strong> Data abstraction involves using variables and data structures to manage and simplify the complexity of programs.</li>
-            <li><strong>3.3 Mathematical Expressions:</strong> Understand how to use operators and expressions to perform calculations and manipulate data.</li>
-            <li><strong>3.4 Strings:</strong> Learn about string data types and how to manipulate text within your programs.</li>
-            <li><strong>3.5 Booleans:</strong> Dive into Boolean logic, which helps make decisions in your code using true or false values.</li>
-            <li><strong>3.6 Conditionals:</strong> Explore conditionals, which allow your program to make decisions based on specific criteria.</li>
-            <li><strong>3.7 Nested Conditionals:</strong> Learn how to use conditionals inside other conditionals to handle more complex decision-making.</li>
-            <li><strong>3.8 Iteration:</strong> Understand loops and iteration, which allow for repetitive tasks to be automated and executed multiple times.</li>
-            <li><strong>3.10 Lists:</strong> Study how to use lists (arrays) to store and manage collections of data within your program.</li>
-        </ul>
-    </div>
-</body>
-
 <nav>
     <ul>
         <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/fundamentals">Sprint 2 Resources</a>
@@ -200,40 +169,24 @@ permalink: /sprint2/
         </li>
     </ul>
 </nav>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Big Idea 3: Algorithms and Programming</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f4f4f4;
-        }
-        h1 {
-            color: #2c3e50;
-            text-align: center;
-        }
-        h2 {
-            color: #2980b9;
-        }
-        p {
-            font-size: 1.1em;
-            line-height: 1.6;
-        }
-        ul {
-            list-style-type: square;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        .container {
-            background-color: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-    </style>
-</head>
+<body>
+    <h1>Part 1 - Fundamentals</h1>
 
-</html>
+    <div class="container">
+        <h2>This Unit Overview</h2>
+        <p>In this unit, you will cover the foundational concepts of programming, which are crucial for understanding how to develop and think about algorithms and logic in coding. Here are the key topics:</p>
+
+        <ul>
+            <li><strong>3.1 Variables:</strong> Learn about variables, which are used to store data that can be reused and manipulated throughout the program.</li>
+            <li><strong>3.2 Data Abstraction:</strong> Data abstraction involves using variables and data structures to manage and simplify the complexity of programs.</li>
+            <li><strong>3.3 Mathematical Expressions:</strong> Understand how to use operators and expressions to perform calculations and manipulate data.</li>
+            <li><strong>3.4 Strings:</strong> Learn about string data types and how to manipulate text within your programs.</li>
+            <li><strong>3.5 Booleans:</strong> Dive into Boolean logic, which helps make decisions in your code using true or false values.</li>
+            <li><strong>3.6 Conditionals:</strong> Explore conditionals, which allow your program to make decisions based on specific criteria.</li>
+            <li><strong>3.7 Nested Conditionals:</strong> Learn how to use conditionals inside other conditionals to handle more complex decision-making.</li>
+            <li><strong>3.8 Iteration:</strong> Understand loops and iteration, which allow for repetitive tasks to be automated and executed multiple times.</li>
+            <li><strong>3.10 Lists:</strong> Study how to use lists (arrays) to store and manage collections of data within your program.</li>
+        </ul>
+    </div>
+</body>
+
