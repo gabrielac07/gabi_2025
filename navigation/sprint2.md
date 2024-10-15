@@ -16,21 +16,25 @@ permalink: /sprint2/
             overflow: hidden;
             background-color: #15935d;
             display: flex;
-            justify-content: center; /* Align items in the center horizontally */
+            justify-content: center;
         }
 
         nav li {
-            margin: 0 10px; /* Space between menu items */
+            margin: 0 10px;
         }
 
         nav li a {
-            display: block;
+            display: inline-block;
             color: white;
             text-align: center;
-            padding: 14px 16px;
+            padding: 10px 20px;
             text-decoration: none;
             transition: all 0.3s ease;
             font-weight: bold;
+            background-color: #2980b9;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
         }
 
         nav li a:hover {
