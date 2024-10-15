@@ -84,13 +84,14 @@ permalink: /sprint2/
     <ul>
         <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/fundamentals">Period 3 Lessons</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/1eHGWIXPmFyhhdkjCYhULZZxweWrCLLZLY0NlReUTi7c/edit?gid=0#gid=0">Period 3 Schedule</a></li>
+        <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-2/">3.2 Lesson</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/14h1omXeuwfE-chlK-InGmzPGwLkhnY1mPBVatxFL13c/edit?usp=sharing">3.2 Grades</a></li>
         <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csse/javascript/fundamentals/for-loops/">JavaScript For Loops and Sprites</a></li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.1-3.4/">3.1 and 3.4</a></li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.3-3.5/">3.3 and 3.5</a></li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.6-3.7/">3.6 and 3.7</a></li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.8/">3.8</a></li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.10/">3.10</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.1-3.4/">3.1 and 3.4 Hacks</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.3-3.5/">3.3 and 3.5 Hacks</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.6-3.7/">3.6 and 3.7 Hacks</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.8/">3.8 Hacks</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.10/">3.10 Hacks</a></li>
         <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-final/">Final Hacks</a></li>
     </ul>
 </nav>
@@ -99,7 +100,7 @@ permalink: /sprint2/
 
 <div class="container">
     <h2>This Unit Overview</h2>
-    <p>In this unit, you will cover the foundational concepts of programming, which are crucial for understanding how to develop and think about algorithms and logic in coding. Here are the key topics:</p>
+    <p>In this unit, I learned about the foundational concepts of programming, which are crucial for understanding how to develop and think about algorithms and logic in coding. Here are the key topics that were presented:</p>
 
     <ul>
         <li><strong>3.1 Variables:</strong> Learn about variables, which are used to store data that can be reused and manipulated throughout the program.</li>
