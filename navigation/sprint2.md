@@ -129,16 +129,37 @@ permalink: /sprint2/
     <p>In this unit, I learned about the foundational concepts of programming, which are crucial for understanding how to develop and think about algorithms and logic in coding. Here are the key topics that were presented:</p>
 
     <ul>
-        <li><strong>3.1 Variables:</strong> Learn about variables, which are used to store data that can be reused and manipulated throughout the program.</li>
-        <li><strong>3.2 Data Abstraction:</strong> Data abstraction involves using variables and data structures to manage and simplify the complexity of programs.</li>
-        <li><strong>3.3 Mathematical Expressions:</strong> Understand how to use operators and expressions to perform calculations and manipulate data.</li>
-        <li><strong>3.4 Strings:</strong> Learn about string data types and how to manipulate text within your programs.</li>
-        <li><strong>3.5 Booleans:</strong> Dive into Boolean logic, which helps make decisions in your code using true or false values.</li>
-        <li><strong>3.6 Conditionals:</strong> Explore conditionals, which allow your program to make decisions based on specific criteria.</li>
-        <li><strong>3.7 Nested Conditionals:</strong> Learn how to use conditionals inside other conditionals to handle more complex decision-making.</li>
-        <li><strong>3.8 Iteration:</strong> Understand loops and iteration, which allow for repetitive tasks to be automated and executed multiple times.</li>
-        <li><strong>3.10 Lists:</strong> Study how to use lists (arrays) to store and manage collections of data within your program.</li>
+        <li><strong>3.1 Variables:</strong> variables are used to store data that can be reused and manipulated throughout the program.</li>
+        <li><strong>3.2 Data Abstraction:</strong> involves using variables and data structures to manage and simplify the complexity of programs.</li>
+        <li><strong>3.3 Mathematical Expressions:</strong> how to use operators and expressions to perform calculations and manipulate data.</li>
+        <li><strong>3.4 Strings:</strong> string data types and how to manipulate text within programs.</li>
+        <li><strong>3.5 Booleans:</strong> booleans help make decisions in your code using true or false values.</li>
+        <li><strong>3.6 Conditionals:</strong> allow your program to make decisions based on specific criteria.</li>
+        <li><strong>3.7 Nested Conditionals:</strong>how to use conditionals inside other conditionals to handle more complex decision-making.</li>
+        <li><strong>3.8 Iteration:</strong> loops and iterations allow for repetitive tasks to be executed.</li>
+        <li><strong>3.10 Lists:</strong> how to use lists (arrays) to store and manage collections of data within your program.</li>
     </ul>
+</div>
+<div class="container">
+    <h2>Blog - Reflections on Big Ideas and Teaching</h2>
+    <p>
+        This unit was in preparing me for the College Board exam and Project-Based Learning (PBL) through studying Big Ideas like variables, conditionals, and iteration. This is shown in this blog, where I posted links to all te hacks that I completed for every group, as well as my own lesson that shows understanding of what I did.
+    </p>
+
+    <h2>Memory - Personal Highlight</h2>
+    <p>
+        One of the key highlights from this sprint was our contribution on teaching many of the data types used in programming. We provided an explanation of the data type, such as a boolean or integer, and provided a simple example on how to use it. This was helpful in gaining a broad understanding of the data types so it can be applied in many ways.
+    </p>
+
+    <h2>Relevancy - Learning from Other Lessons</h2>
+    <p>
+        Something that I learned from another lesson are mathematical operations and how they can be used in code. Another thing that I learned is how to use conditionals and how they control the flow of programs. 
+    </p>
+
+    <h2>Beyond Perfunctory - Personal Growth</h2>
+    <p>
+        I grew from this project by learning about the ways loops, lists, and more can be encorporated into javascript. This is shown in some of the javascript hacks that were assigned, and I learned from them.
+    </p>
 </div>
 
 </body>
