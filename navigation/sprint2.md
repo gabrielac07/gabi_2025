@@ -15,11 +15,12 @@ permalink: /sprint2/
             padding: 0;
             overflow: hidden;
             background-color: #15935d;
+            display: flex;
+            justify-content: center; /* Align items in the center horizontally */
         }
 
         nav li {
-            float: left;
-            position: relative;
+            margin: 0 10px; /* Space between menu items */
         }
 
         nav li a {
@@ -37,65 +38,60 @@ permalink: /sprint2/
             transform: scale(1.1);
         }
 
-        /* Submenu styling */
-        nav ul ul {
-            display: none;
-            position: absolute;
-            background-color: #155f91;
-            top: 100%;
-            left: 0;
-            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-            opacity: 0;
-            transition: opacity 0.3s ease, transform 0.3s ease;
+        /* General page styling */
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-top: 20px;
         }
 
-        /* Show submenu on hover */
-        nav li:hover > ul {
-            display: block;
-            opacity: 1;
-            transform: translateY(0px); /* Removed translateY(10px) */
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
+            width: 80%;
+            max-width: 800px;
         }
 
-        nav ul ul li {
-            float: none;
-            position: relative;
+        h2 {
+            color: #2980b9;
+            font-size: 24px;
+            margin-top: 20px;
         }
 
-        nav ul ul a {
-            padding: 10px 16px;
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
         }
 
-        /* Add transition effect to submenu items */
-        nav ul ul li a:hover {
-            background-color: #15935d;
-            transform: translateX(10px);
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
         }
 
+        li {
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
     </style>
 </head>
 
 <body>
+
 <nav>
     <ul>
-        <li><a href="#">Sprint 2 Resources</a>
-            <ul>
-                <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/fundamentals">Period 3 Lessons</a></li>
-                <li><a href="https://docs.google.com/spreadsheets/d/1eHGWIXPmFyhhdkjCYhULZZxweWrCLLZLY0NlReUTi7c/edit?gid=0#gid=0">Period 3 Schedule</a></li>
-                <li><a href="https://docs.google.com/spreadsheets/d/14h1omXeuwfE-chlK-InGmzPGwLkhnY1mPBVatxFL13c/edit?usp=sharing">3.2 Grades</a></li>
-                <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csse/javascript/fundamentals/for-loops/">JavaScript For Loops and Sprites</a></li>  
-            </ul>
-        </li>
-        <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/fundamentals">Sprint 2 Homework</a>
-            <ul>
-                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.1-3.4/">3.1 and 3.4</a></li>
-                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.3-3.5/">3.3 and 3.5</a></li>
-                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.6-3.7/">3.6 and 3.7</a></li>
-                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.8/">3.8</a></li>
-                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.10/">3.10</a></li>
-                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.10/">3.10</a></li>
-                <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-final/">Final Hacks</a></li>
-            </ul>
-        </li>
+        <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/fundamentals">Period 3 Lessons</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1eHGWIXPmFyhhdkjCYhULZZxweWrCLLZLY0NlReUTi7c/edit?gid=0#gid=0">Period 3 Schedule</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/14h1omXeuwfE-chlK-InGmzPGwLkhnY1mPBVatxFL13c/edit?usp=sharing">3.2 Grades</a></li>
+        <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csse/javascript/fundamentals/for-loops/">JavaScript For Loops and Sprites</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.1-3.4/">3.1 and 3.4</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.3-3.5/">3.3 and 3.5</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.6-3.7/">3.6 and 3.7</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.8/">3.8</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-3.10/">3.10</a></li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/hacks-final/">Final Hacks</a></li>
     </ul>
 </nav>
 
@@ -120,13 +116,3 @@ permalink: /sprint2/
 
 </body>
 </html>
-
-
-<script src="https://utteranc.es/client.js"
-        repo="nighthawkcoders/portfolio_2025"
-        issue-term="title"
-        label="blogpost-comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
