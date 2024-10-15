@@ -10,7 +10,6 @@ hide: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My GitHub Page</title>
     <style>
-        /* Add some basic styling */
         nav ul {
             list-style-type: none;
             margin: 0;
@@ -117,7 +116,6 @@ hide: true
     </style>
 </head>
 <body>
-
 <nav>
     <ul>
         <li><a href="#">Notebooks</a>        

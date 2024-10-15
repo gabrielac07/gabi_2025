@@ -146,9 +146,12 @@ permalink: /sprint2/
         }
     </style>
 </head>
+
+
+<body>
 <nav>
     <ul>
-        <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/fundamentals">Sprint 2 Resources</a>
+        <li><a href="#">Sprint 2 Resources</a>
             <ul>
                 <li><a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/fundamentals">Period 3 Lessons</a></li>
                 <li><a href="https://docs.google.com/spreadsheets/d/1eHGWIXPmFyhhdkjCYhULZZxweWrCLLZLY0NlReUTi7c/edit?gid=0#gid=0">Period 3 Schedule</a></li>
@@ -169,7 +172,6 @@ permalink: /sprint2/
         </li>
     </ul>
 </nav>
-<body>
     <h1>Part 1 - Fundamentals</h1>
 
     <div class="container">
