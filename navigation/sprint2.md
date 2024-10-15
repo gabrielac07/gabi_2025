@@ -3,6 +3,92 @@ layout: page
 title: Sprint 2 
 permalink: /sprint2/
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Big Idea 3: Algorithms and Programming</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        h2 {
+            color: #2980b9;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: square;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Big Idea 3: Algorithms and Programming</h1>
+        
+        <h2>1. Algorithm Design and Analysis</h2>
+        <p>
+            <strong>Definition:</strong> An algorithm is a precise, step-by-step procedure for solving a problem.
+        </p>
+        <p>
+            <strong>Importance:</strong> Algorithms form the backbone of programming and computational problem-solving.
+        </p>
+        <p>
+            <strong>Efficiency:</strong> Students evaluate algorithms' efficiency, often considering time and space complexity.
+        </p>
+
+        <h2>2. Developing Programs</h2>
+        <p>
+            <strong>Abstraction:</strong> Abstraction simplifies problems by focusing on essential aspects and breaking down complexity.
+        </p>
+        <p>
+            <strong>Program Development:</strong> Students write clear, correct, and efficient programs using different languages and tools.
+        </p>
+        <p>
+            <strong>Documentation:</strong> Effective documentation ensures code is understandable and maintainable.
+        </p>
+
+        <h2>3. Programming Concepts</h2>
+        <ul>
+            <li><strong>Control Structures:</strong> Conditional statements (if-else), loops, and functions allow dynamic, responsive programs.</li>
+            <li><strong>Variables and Data Types:</strong> Understanding variables to store data and using different data types (integers, strings, lists, etc.).</li>
+            <li><strong>Modularity:</strong> Functions and procedures promote reusable, modular code for complex problem-solving.</li>
+        </ul>
+
+        <h2>4. Testing and Debugging</h2>
+        <p>
+            Students use techniques to test and debug programs, ensuring they work correctly under various conditions. Iterative development and debugging cycles are key for refining solutions.
+        </p>
+
+        <h2>5. Impact of Programming</h2>
+        <p>
+            Programming allows for creative problem-solving and innovation across industries like healthcare, education, and entertainment.
+        </p>
+        <p>
+            Ethical considerations are discussed, emphasizing responsible programming and the societal implications of algorithms.
+        </p>
+    </div>
+</body>
+</html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -139,5 +225,9 @@ permalink: /sprint2/
         </li>
     </ul>
 </nav>
+
+<br><br><br>
+
+
 </body>
 </html>
