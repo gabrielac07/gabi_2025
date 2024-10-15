@@ -9,17 +9,21 @@ permalink: /sprint2/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Part 1 - Fundamentals</title>
     <style>
+        nav {
+            overflow-x: auto; /* Allow horizontal scrolling */
+            white-space: nowrap; /* Prevent buttons from wrapping to a new line */
+            background-color: #15935d;
+        }
+
         nav ul {
             list-style-type: none;
             margin: 0;
             padding: 0;
-            overflow: hidden;
-            background-color: #15935d;
-            display: flex;
-            justify-content: center;
+            display: inline-block;
         }
 
         nav li {
+            display: inline-block;
             margin: 0 10px;
         }
 
@@ -40,6 +44,24 @@ permalink: /sprint2/
         nav li a:hover {
             background-color: #155f91;
             transform: scale(1.1);
+        }
+
+        /* Add custom scrollbar for navigation */
+        nav::-webkit-scrollbar {
+            height: 8px;
+        }
+
+        nav::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+
+        nav::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 5px;
+        }
+
+        nav::-webkit-scrollbar-thumb:hover {
+            background: #555;
         }
 
         /* General page styling */
