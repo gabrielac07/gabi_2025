@@ -131,6 +131,8 @@ hide: true
                 <li><a href="http://127.0.0.1:4100/gabi_2025/snake/">Snake Game</a></li>
             </ul>
         </li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/sprint2/">Sprint 2</a>
+        </li>
     </ul>
 </nav>
 

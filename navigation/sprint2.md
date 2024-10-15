@@ -3,7 +3,6 @@ layout: page
 title: Sprint 2 
 permalink: /sprint2/
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,8 +15,6 @@ permalink: /sprint2/
             padding: 0;
             overflow: hidden;
             background-color: #15935d;
-            position: relative;
-            z-index: 100;
         }
 
         nav li {
@@ -40,6 +37,7 @@ permalink: /sprint2/
             transform: scale(1.1);
         }
 
+        /* Submenu styling */
         nav ul ul {
             display: none;
             position: absolute;
@@ -48,13 +46,14 @@ permalink: /sprint2/
             left: 0;
             box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
             opacity: 0;
-            transition: all 0.3s ease;
+            transition: opacity 0.3s ease, transform 0.3s ease;
         }
 
-        nav ul li:hover > ul {
+        /* Show submenu on hover */
+        nav li:hover > ul {
             display: block;
             opacity: 1;
-            transform: translateY(10px);
+            transform: translateY(0px); /* Removed translateY(10px) */
         }
 
         nav ul ul li {
@@ -66,87 +65,14 @@ permalink: /sprint2/
             padding: 10px 16px;
         }
 
+        /* Add transition effect to submenu items */
         nav ul ul li a:hover {
             background-color: #15935d;
             transform: translateX(10px);
         }
 
-        img {
-            transition: transform 0.3s ease;
-            border-radius: 12px;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        img:hover {
-            transform: scale(1.05);
-        }
-
-        iframe {
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease;
-        }
-
-        iframe:hover {
-            transform: scale(1.03);
-        }
-
-        nav li a:before {
-            content: '';
-            position: absolute;
-            width: 100%;
-            height: 4px;
-            background-color: white;
-            bottom: 0;
-            left: 0;
-            transform: scaleX(0);
-            transform-origin: bottom right;
-            transition: transform 0.3s ease-out;
-        }
-
-        nav li a:hover:before {
-            transform: scaleX(1);
-            transform-origin: bottom left;
-        }
-
-        h1 {
-            color: #2c3e50;
-            text-align: center;
-            margin-top: 20px;
-        }
-
-        .container {
-            background-color: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-            margin: 20px auto;
-            width: 80%;
-            max-width: 800px;
-        }
-
-        h2 {
-            color: #2980b9;
-            font-size: 24px;
-            margin-top: 20px;
-        }
-
-        p {
-            font-size: 1.1em;
-            line-height: 1.6;
-        }
-
-        ul {
-            list-style-type: disc;
-            padding-left: 20px;
-        }
-
-        li {
-            margin-bottom: 10px;
-            font-size: 1.1em;
-        }
     </style>
 </head>
-
 
 <body>
 <nav>
@@ -172,23 +98,35 @@ permalink: /sprint2/
         </li>
     </ul>
 </nav>
-    <h1>Part 1 - Fundamentals</h1>
 
-    <div class="container">
-        <h2>This Unit Overview</h2>
-        <p>In this unit, you will cover the foundational concepts of programming, which are crucial for understanding how to develop and think about algorithms and logic in coding. Here are the key topics:</p>
+<h1>Part 1 - Fundamentals</h1>
 
-        <ul>
-            <li><strong>3.1 Variables:</strong> Learn about variables, which are used to store data that can be reused and manipulated throughout the program.</li>
-            <li><strong>3.2 Data Abstraction:</strong> Data abstraction involves using variables and data structures to manage and simplify the complexity of programs.</li>
-            <li><strong>3.3 Mathematical Expressions:</strong> Understand how to use operators and expressions to perform calculations and manipulate data.</li>
-            <li><strong>3.4 Strings:</strong> Learn about string data types and how to manipulate text within your programs.</li>
-            <li><strong>3.5 Booleans:</strong> Dive into Boolean logic, which helps make decisions in your code using true or false values.</li>
-            <li><strong>3.6 Conditionals:</strong> Explore conditionals, which allow your program to make decisions based on specific criteria.</li>
-            <li><strong>3.7 Nested Conditionals:</strong> Learn how to use conditionals inside other conditionals to handle more complex decision-making.</li>
-            <li><strong>3.8 Iteration:</strong> Understand loops and iteration, which allow for repetitive tasks to be automated and executed multiple times.</li>
-            <li><strong>3.10 Lists:</strong> Study how to use lists (arrays) to store and manage collections of data within your program.</li>
-        </ul>
-    </div>
+<div class="container">
+    <h2>This Unit Overview</h2>
+    <p>In this unit, you will cover the foundational concepts of programming, which are crucial for understanding how to develop and think about algorithms and logic in coding. Here are the key topics:</p>
+
+    <ul>
+        <li><strong>3.1 Variables:</strong> Learn about variables, which are used to store data that can be reused and manipulated throughout the program.</li>
+        <li><strong>3.2 Data Abstraction:</strong> Data abstraction involves using variables and data structures to manage and simplify the complexity of programs.</li>
+        <li><strong>3.3 Mathematical Expressions:</strong> Understand how to use operators and expressions to perform calculations and manipulate data.</li>
+        <li><strong>3.4 Strings:</strong> Learn about string data types and how to manipulate text within your programs.</li>
+        <li><strong>3.5 Booleans:</strong> Dive into Boolean logic, which helps make decisions in your code using true or false values.</li>
+        <li><strong>3.6 Conditionals:</strong> Explore conditionals, which allow your program to make decisions based on specific criteria.</li>
+        <li><strong>3.7 Nested Conditionals:</strong> Learn how to use conditionals inside other conditionals to handle more complex decision-making.</li>
+        <li><strong>3.8 Iteration:</strong> Understand loops and iteration, which allow for repetitive tasks to be automated and executed multiple times.</li>
+        <li><strong>3.10 Lists:</strong> Study how to use lists (arrays) to store and manage collections of data within your program.</li>
+    </ul>
+</div>
+
 </body>
+</html>
 
+
+<script src="https://utteranc.es/client.js"
+        repo="nighthawkcoders/portfolio_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
