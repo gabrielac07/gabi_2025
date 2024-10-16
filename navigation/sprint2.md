@@ -143,22 +143,22 @@ permalink: /sprint2/
 <div class="container">
     <h2>Blog - Reflections on Big Ideas and Teaching</h2>
     <p>
-        This unit was in preparing me for the College Board exam and Project-Based Learning (PBL) through studying Big Ideas like variables, conditionals, and iteration. This is shown in this blog, where I posted links to all te hacks that I completed for every group, as well as my own lesson that shows understanding of what I did.
+        Overall, this project helped prepare me well for the College Board exam. In this unit, we learned about big idea 3, which included content like variables, conditionals, and iteration. My learning is shown in this blog, where I posted links to all the hacks that I completed for every group, as well as my own lesson that shows understanding of what I did. I went above and beyond on all the hacks and made sure I actually understood what we were learning.
     </p>
 
     <h2>Memory - Personal Highlight</h2>
     <p>
-        One of the key highlights from this sprint was our contribution on teaching many of the data types used in programming. We provided an explanation of the data type, such as a boolean or integer, and provided a simple example on how to use it. This was helpful in gaining a broad understanding of the data types so it can be applied in many ways.
+        One of the key highlights from this sprint was my contribution on teaching many of the data types used in programming. I covered tuples, dictionaries, sets, booleans, and none, as well as JSON implementation in code. I explained each one broadly before providing both a python and java example. This format was helpful in gaining a broad understanding of the data types so it can be applied in many ways.
     </p>
 
     <h2>Relevancy - Learning from Other Lessons</h2>
     <p>
-        Something that I learned from another lesson are mathematical operations and how they can be used in code. Another thing that I learned is how to use conditionals and how they control the flow of programs. 
+        Something that I learned from another lesson are mathematical operations and how they can be used in code (lesson 3.3). Another thing that I learned is how to use conditionals and how they control the flow of programs (lesson 6.1). The lessons helped reinforce my understanding by discovering 
     </p>
 
     <h2>Beyond Perfunctory - Personal Growth</h2>
     <p>
-        I grew from this project by learning about the ways loops, lists, and more can be encorporated into javascript. This is shown in some of the javascript hacks that were assigned, and I learned from them.
+        I grew from this project by learning about the ways loops, lists, and more can be encorporated into javascript. Python was already familiar to me, but Javascript was not. I used the javascript hacks that groups such as 3.1 and 3.7 used to learn more about java, as well as taking more time on learning the javascript examples that I built for my lesson.
     </p>
 </div>
 
