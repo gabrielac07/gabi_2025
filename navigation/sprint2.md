@@ -153,7 +153,7 @@ permalink: /sprint2/
 
     <h2>Relevancy - Learning from Other Lessons</h2>
     <p>
-        Something that I learned from another lesson are mathematical operations and how they can be used in code (lesson 3.3). Another thing that I learned is how to use conditionals and how they control the flow of programs (lesson 6.1). The lessons helped reinforce my understanding by discovering 
+        Something that I learned from another lesson are mathematical operations and how they can be used in code (lesson 3.3). Another thing that I learned is how to use conditionals and how they control the flow of programs (lesson 3.6). The lessons helped reinforce my understanding of these topics.
     </p>
 
     <h2>Beyond Perfunctory - Personal Growth</h2>
