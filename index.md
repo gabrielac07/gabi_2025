@@ -133,6 +133,9 @@ hide: true
         </li>
         <li><a href="https://gabrielac07.github.io/gabi_2025/sprint2/">Sprint 2</a>
         </li>
+         </li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/sprint3/">Sprint 3</a>
+        </li>
     </ul>
 </nav>
 
