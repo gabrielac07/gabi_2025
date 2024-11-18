@@ -136,6 +136,8 @@ hide: true
          </li>
         <li><a href="https://gabrielac07.github.io/gabi_2025/sprint3/">Sprint 3</a>
         </li>
+         <li><a href="https://gabrielac07.github.io/gabi_2025/2018_MCQ/">AP Classroom 2018 MCQ</a>
+        </li>
     </ul>
 </nav>
 
