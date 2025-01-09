@@ -140,6 +140,8 @@ hide: true
         </li>
         <li><a href="https://gabrielac07.github.io/gabi_2025/sprint4/">Sprint 4</a>
         </li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/extra_credit/">Student Panel Extra Credit</a>
+        </li>
     </ul>
 </nav>
 
