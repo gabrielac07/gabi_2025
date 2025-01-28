@@ -142,6 +142,8 @@ hide: true
         </li>
         <li><a href="https://gabrielac07.github.io/gabi_2025/extra_credit/">Student Panel Extra Credit</a>
         </li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/sprint4_PPR/">Sprint 4 Personalized Project Reference</a>
+        </li>
     </ul>
 </nav>
 
