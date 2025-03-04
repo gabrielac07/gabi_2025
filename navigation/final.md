@@ -228,11 +228,13 @@ Explanation: for an algorithm to run in reasonable sum, it has to take a number 
 ### Strengths:
 - strong understanding of python code
 - experience in API's and Postman
+- problem-solving
 
 ### Weaknesses:
 - get a better understanding of deployment
 - javascript code
 - college board topics such as binary, computing safety, and networks
+- communicating and unity
 
 ## Reflection on project:
 Overall, my project works full-stack and has all the college board features as well as CRUD operations. There were many challenges, such as getting token to work and making the feature useful for the average user. There was also some challenges with integrating all of our group's features to enhance cohesion. 
@@ -246,7 +248,7 @@ Michelle Kuruvilla and I both helped each other review for the final, checking e
 |---------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 5 things you did over 12 weeks, Issues, burn down, presentation            | 5/5     | I have 5 distinct things I learned over the trimester, including proof of burndown lists and planning.                                                                                                         |
 | Full Stack Project Demo, including CPT requirement highlights, and N@tM feedback | 2/2       | My project works full stack, with all CRUD operations and CPT requirements clearly demonstrated and explained well. I went to N@tM and received helpful feedback, as well as taking interest in other groups. |
-| Project Feature blog write-up, using CPT/FRQ language                     | 1/1    | I wrote about the function of my project feature, as well as how it meets the CPT requirements for College Board. One thing I could've done was use a bit more programming language in my explanation.      | 
+| Project Feature blog write-up, using CPT/FRQ language                     | .9/1    | I wrote about the function of my project feature, as well as how it meets the CPT requirements for College Board. One thing I could've done was use a bit more programming language in my explanation.      | 
 | MCQ                                                                       | 1/1       | I did a good job of understanding the questions I got wrong and correcting them, as well as analyzing weaker topics and questions that took longer, which is helpful when studying for the exam.              |
-| 10th point                                                                | .5/1     | I took interest in N@tM projects and blogged about them, as well as practicing with a new person. I also sent a summary of my talking points a day in advance and had a self-scoring rubric, but my reflection on strengths/weaknesses and next steps |
-| **Total**                                                                 | **9.5/10** |                                                                                                                                                                                                                 | 
+| 10th point                                                                | .5/1     | I took interest in N@tM projects and blogged about them, as well as practicing with a new person. I also sent a summary of my talking points a day in advance and had a self-scoring rubric, but my reflection on strengths/weaknesses and next steps was not a strong analysis |
+| **Total**                                                                 | **9.4/10** |                                                                                                                                                                                                                 | 
