@@ -42,7 +42,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: build-artifact
-          path: ./build/ 
+          path: ./build/
       - name: Execute conversion script
         run: python scripts/convert_notebooks.py
       - name: Build with Jekyll

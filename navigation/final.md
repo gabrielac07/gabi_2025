@@ -141,7 +141,13 @@ else:
 ## My first MC:
 ![img](../images/mc_results.png)
 ### Topics I had trouble with:
-This time was mostly unit 3, but also 2 and 5. This means that I need to focus on topics such as algorithms, binary search, cybersecurity, data representation, and program execution. 
+This time was mostly unit 3, but also 2 and 5. This means that I need to focus on:
+- 2.3: Extracting Information from Data
+- 3.7: Nested Conditionals
+- 3.11: Binary Search
+- 3.17: Algorithmic Efficiency
+- 5.6: Safe Computing
+
 ### Questions I missed in both MC's:
 - algorithm efficiency and runtime
 - comparing code sets and algorithms
