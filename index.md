@@ -131,18 +131,20 @@ hide: true
                 <li><a href="http://127.0.0.1:4100/gabi_2025/snake/">Snake Game</a></li>
             </ul>
         </li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/sprint2/">Sprint 2</a>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/sprint2/">Big Idea 3</a>
         </li>
          </li>
         <li><a href="https://gabrielac07.github.io/gabi_2025/sprint3/">Sprint 3</a>
         </li>
          <li><a href="https://gabrielac07.github.io/gabi_2025/2018_MCQ/">AP Classroom 2018 MCQ</a>
         </li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/sprint4/">Sprint 4</a>
-        </li>
         <li><a href="https://gabrielac07.github.io/gabi_2025/extra_credit/">Student Panel Extra Credit</a>
         </li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/sprint4_PPR/">Sprint 4 Personalized Project Reference</a>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/sprint4_PPR/">Sprint 4 PPR</a>
+        </li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/big_idea1/">Big Idea 1</a>
+        </li>
+        <li><a href="https://gabrielac07.github.io/gabi_2025/final/">Final Retrospective</a>
         </li>
     </ul>
 </nav>
