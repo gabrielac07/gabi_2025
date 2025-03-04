@@ -95,7 +95,7 @@ I use a list of dictionaries to create a list of books that eventually get displ
     books_list = [{'id': book.id, 'title': book.title, 'author': book.author} for book in books]
 ```
  #### Sequencing: 
- My code uses sequencing because the code executes line by line, importing modules, defining the blueprint, and declaring routes
+My code uses sequencing because the code executes line by line, importing modules, defining the blueprint, and declaring routes
 
  ```python
  # Create a Blueprint for the wishlist functionality
@@ -147,7 +147,7 @@ else:
 
 # College Board MC:
 #### Score: 61/67
-[Download PDF](../images/mc_topics.pdf)
+[Results by topic](../images/mc_topics.pdf)
 
 ## Questions I got wrong:
 
@@ -216,14 +216,37 @@ My answer: 3 only
 Correct answer: 1, 2, and 3
 Explanation: for an algorithm to run in reasonable sum, it has to take a number of steps less than or equal to a polynomial function. 1 accesses elements 2n times, 2 accesses n^2 times, and 3 accesses 10 elements.
 
+# 10th Point
+
+## Future Plans in Computer Science:
+- continue to improve my feature
+- Working on a new full-stack project with a database
+- learning how to use AWS to deploy programs
+
+## Self Reflection: Strengths and weaknesses
+
+### Strengths:
+- strong understanding of python code
+- experience in API's and Postman
+
+### Weaknesses:
+- get a better understanding of deployment
+- javascript code
+- college board topics such as binary, computing safety, and networks
+
+## Reflection on project:
+Overall, my project works full-stack and has all the college board features as well as CRUD operations. There were many challenges, such as getting token to work and making the feature useful for the average user. There was also some challenges with integrating all of our group's features to enhance cohesion. 
+
+## Someone New:
+Michelle Kuruvilla and I both helped each other review for the final, checking each other's blogs and making sure we have all the requirements. We also practiced to make sure our presentations were good.
 
 # Self-Grading
 
-| **Topic**                                                                 | **Grade** | **Explanation**                                                                                                                                                                                                                                         | **Total** |
-|---------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| 5 things you did over 12 weeks, Issues, burndown, presentation            | 5/5     | I have 5 distinct things I learned over the trimester, including proof of burndown lists and planning.                                                                                                         | 4.5     |
-| Full Stack Project Demo, including CPT requirement highlights, and N@tM feedback | 2/2       | My project works full stack, with all CRUD operations and CPT requirements clearly demonstrated and explained well. I went to N@tM and received helpful feedback, as well as taking interest in other groups. | 2       |
-| Project Feature blog write-up, using CPT/FRQ language                     | 0.95/1    | I wrote about the function of my project feature, as well as how it meets the CPT requirements for College Board. One thing I could've done was use a bit more programming language in my explanation.      | 0.95    |
-| MCQ                                                                       | 1/1       | I did a good job of understanding the questions I got wrong and correcting them, as well as analyzing weaker topics and questions that took longer, which is helpful when studying for the exam.              | 1       |
-| 10th point                                                                | 0.5/1     | I took interest in N@tM projects and blogged about them, as well as practicing with a new person. I also sent a summary of my talking points a day in advance and had a self-scoring rubric, but I didn't reflect on my strengths and weaknesses or think about my next steps. | 0.5     |
-| **Total**                                                                 | **9/10** |                                                                                                                                                                                                                 | **8.95** |
+| **Topic**                                                                 | **Grade** | **Explanation**                                                                                                                                                                                                                                   
+|---------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5 things you did over 12 weeks, Issues, burn down, presentation            | 5/5     | I have 5 distinct things I learned over the trimester, including proof of burndown lists and planning.                                                                                                         |
+| Full Stack Project Demo, including CPT requirement highlights, and N@tM feedback | 2/2       | My project works full stack, with all CRUD operations and CPT requirements clearly demonstrated and explained well. I went to N@tM and received helpful feedback, as well as taking interest in other groups. |
+| Project Feature blog write-up, using CPT/FRQ language                     | 1/1    | I wrote about the function of my project feature, as well as how it meets the CPT requirements for College Board. One thing I could've done was use a bit more programming language in my explanation.      | 
+| MCQ                                                                       | 1/1       | I did a good job of understanding the questions I got wrong and correcting them, as well as analyzing weaker topics and questions that took longer, which is helpful when studying for the exam.              |
+| 10th point                                                                | .5/1     | I took interest in N@tM projects and blogged about them, as well as practicing with a new person. I also sent a summary of my talking points a day in advance and had a self-scoring rubric, but my reflection on strengths/weaknesses and next steps |
+| **Total**                                                                 | **9.5/10** |                                                                                                                                                                                                                 | 
