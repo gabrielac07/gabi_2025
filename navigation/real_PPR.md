@@ -85,3 +85,4 @@ for item in wishlist_items:
             'date_added': item.date_added.strftime('%Y-%m-%d'),
             'availability': item.availability
         })
+```
