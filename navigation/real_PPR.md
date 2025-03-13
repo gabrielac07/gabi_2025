@@ -17,7 +17,13 @@ Capture and paste two program code segments you developed during the administrat
 i. This is the `get_user_wishlist()` function. It:
 - Defines a procedure named `get_user_wishlist()` with a return type of JSON.
 - Uses the current_user parameter indirectly via `g.current_user` for user-specific access.
-- Implements an algorithm with Sequencing, Selection, and Iteration.
+- Implements an algorithm with Sequencing, Selection, and Iteration to retrieve and format the user's wishlist items.
+
+**Sequencing:** The function executes a series of steps in a specific order, starting with fetching the current user and their wishlist items, then iterating over each item to retrieve the corresponding book details, and finally appending the formatted book details to the `books_in_wishlist` list.
+
+**Selection:** The function uses an `if` statement to check if a book exists for each wishlist item. If the book exists, it is added to the `books_in_wishlist` list.
+
+**Iteration:** The function uses a `for` loop to iterate over each item in the `wishlist_items` list, processing each item to retrieve and format the book details.
 
 ```python
 @wishlist_api.route('/', methods=['GET'])
@@ -42,7 +48,7 @@ def get_user_wishlist():
     return jsonify(books_in_wishlist)
 ```
 
-ii. Here, the `get_user_wishlist()` function is called whenever a user makes a GET request to the /api/wishlist/ endpoint.
+ii. This code segment shows the `get_user_wishlist()` function being called whenever a user makes a GET request to the /api/wishlist/ endpoint. The function is decorated with `@wishlist_api.route` and `@token_required` to ensure it is properly routed and secured.
 
 ```python
 @wishlist_api.route('/', methods=['GET'])
@@ -58,7 +64,7 @@ Capture and paste two program code segments you developed during the administrat
 
 ### ii. The second program code segment must show the data in the same list being used, such as creating new data from the existing data or accessing multiple elements in the list, as part of fulfilling the program's purpose.
 
-i. The `books_list` variable stores all books retrieved from the database.
+i. This code segment shows the `books_list` variable storing all books retrieved from the database. The books are stored as dictionaries in a list, each containing the book's id, title, and author.
 
 ```python
 @wishlist_api.route('/books', methods=['GET'])
@@ -69,7 +75,7 @@ def get_books():
     return jsonify(books_list)
 ```
 
-ii. The `books_in_wishlist` list is created by iterating over the wishlist_items and appending books to the list.
+ii. This code segment shows the `books_in_wishlist` list being created by iterating over the `wishlist_items` and appending books to the list. Each book is retrieved from the database and added to the list as a dictionary containing the book's details.
 
 ```python
 books_in_wishlist = []
@@ -86,3 +92,14 @@ for item in wishlist_items:
             'availability': item.availability
         })
 ```
+
+## Comments
+
+<div id="utterances-comments"></div>
+<script src="https://utteranc.es/client.js"
+        repo="gabrielac07/gabi_2025"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

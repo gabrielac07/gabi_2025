@@ -73,3 +73,14 @@ Explanation: Correct. In order for a binary search on a list to work as intended
 My answer: 3 only
 Correct answer: 1, 2, and 3
 Explanation: for an algorithm to run in reasonable sum, it has to take a number of steps less than or equal to a polynomial function. 1 accesses elements 2n times, 2 accesses n^2 times, and 3 accesses 10 elements.
+
+## Comments
+
+<div id="utterances-comments"></div>
+<script src="https://utteranc.es/client.js"
+        repo="gabrielac07/gabi_2025"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
