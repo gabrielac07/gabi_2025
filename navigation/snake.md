@@ -140,5 +140,16 @@ permalink: /snake/
         let game = setInterval(draw, 100);
     </script>
 
+    ## Comments
+
+    <div id="utterances-comments"></div>
+    <script src="https://utteranc.es/client.js"
+            repo="gabrielac07/gabi_2025"
+            issue-term="pathname"
+            theme="github-light"
+            crossorigin="anonymous"
+            async>
+    </script>
+
 </body>
 </html>
