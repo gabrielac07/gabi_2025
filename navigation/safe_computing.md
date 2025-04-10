@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Safe Computing Hack 2
 author: Gabriela Connelly
 permalink: /safe_computing/
