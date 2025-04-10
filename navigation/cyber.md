@@ -16,7 +16,7 @@ Because of the panel sharing their experiences, I got to learn a little about a 
 
 
 # Photo:
-[cybersecurity](../images/cybersecurity.jpg)
+![img](../images/cybersecurity.jpg)
 
 
 
