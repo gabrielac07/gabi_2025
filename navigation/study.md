@@ -24,6 +24,7 @@ permalink: /study/
   - How a computing innovation is used
   - Long-term vs short-term outcomes
 
+[Homework and Popcorn Hacks](https://github.com/gabrielac07/gabi_2025/issues/9)
 ---
 
 ### Digital Divide
@@ -40,6 +41,7 @@ permalink: /study/
   - Providing affordable devices
   - Digital literacy programs
 
+[Popcorn Hacks and Homework](https://github.com/gabrielac07/gabi_2025/issues/10)
 ---
 
 ### Computing Bias
@@ -56,6 +58,7 @@ permalink: /study/
   - Transparent design/testing practices
   - Regular audits for bias
 
+
 ---
 
 ### Crowdsourcing
@@ -71,6 +74,7 @@ permalink: /study/
   - Data quality and reliability
   - Managing large-scale participation
 
+[Popcorn Hacks and Homework](https://github.com/gabrielac07/gabi_2025/issues/11)
 ---
 
 ### Legal and Ethical Concerns
@@ -114,6 +118,7 @@ permalink: /study/
   - List must be **sorted**
 - More efficient than linear search for large datasets
 
+[Popcorn Hacks and HW](https://github.com/gabrielac07/gabi_2025/issues/12)
 ---
 
 ### Lists and Filtering Algorithm
@@ -126,6 +131,7 @@ permalink: /study/
   - Using conditionals (`if` statements) to apply filters
 - Useful in data analysis, UI rendering, game states, etc.
 
+[Popcorn Hacks and HW](https://github.com/gabrielac07/gabi_2025/issues/13)
 ---
 
 ### Simulation, Games, and Random Algorithms
@@ -144,6 +150,7 @@ permalink: /study/
   - Test a range of possibilities
   - Add variability and realism
 
+[Popcorn Hacks and HW](https://gabrielac07.github.io/gabi_2025/random/)
 ---
 
 ### Big O and Algorithm Efficiency
@@ -159,6 +166,7 @@ permalink: /study/
   - Sometimes faster algorithms are more complex to implement
   - Choosing the right algorithm is essential for performance
 
+[popcorn hacks and HW](https://github.com/gabrielac07/gabi_2025/issues/14)
 ---
 
 ### Undecidable Problems
@@ -171,6 +179,7 @@ permalink: /study/
   - Restrict the problem domain (e.g., only consider programs of a certain form).
   - Use semi-decision procedures that may run forever on “no” instances but halt on “yes.”
 
+[popcorn hacks and HW](https://github.com/gabrielac07/gabi_2025/issues/15)
 ---
 
 ### Graphs and Graph Algorithms
