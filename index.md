@@ -4,156 +4,201 @@ title: Home
 description: Home Page
 hide: true
 ---
+
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Page</title>
-    <style>
-        nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background-color: #15935d;
-            position: relative;
-            z-index: 100;
-        }
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gabi’s GitHub Page</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+      color: #333;
+    }
 
-        nav li {
-            float: left;
-            position: relative;
-        }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
 
-        nav li a {
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-            transition: all 0.3s ease;
-            font-weight: bold;
-        }
+    h1, h2 {
+      text-align: center;
+      color: #155f91;
+    }
 
-        nav li a:hover {
-            background-color: #155f91;
-            transform: scale(1.1);
-        }
+    .button-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 12px;
+      margin: 16px 0;
+    }
 
-        /* Submenu CSS */
-        nav ul ul {
-            display: none;
-            position: absolute;
-            background-color: #155f91;
-            top: 100%;
-            left: 0;
-            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-            opacity: 0;
-            transition: all 0.3s ease;
-        }
+    .btn {
+      background: linear-gradient(to right, #15935d, #155f91);
+      border: none;
+      padding: 12px 20px;
+      border-radius: 10px;
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+      transition: transform 0.2s ease, background 0.3s ease;
+      text-align: center;
+    }
 
-        nav ul li:hover > ul {
-            display: block;
-            opacity: 1;
-            transform: translateY(10px);
-        }
+    .btn:hover {
+      background: #147050;
+      transform: scale(1.05);
+    }
 
-        nav ul ul li {
-            float: none;
-            position: relative;
-        }
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
 
-        nav ul ul a {
-            padding: 10px 16px;
-        }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: white;
+      min-width: 200px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      z-index: 1;
+      border-radius: 10px;
+      overflow: hidden;
+    }
 
-        /* Add transition effect to submenu items */
-        nav ul ul li a:hover {
-            background-color: #15935d;
-            transform: translateX(10px);
-        }
+    .dropdown-content a {
+      color: #155f91;
+      padding: 12px 16px;
+      display: block;
+      text-decoration: none;
+      font-weight: bold;
+    }
 
-        /* Adding hover effects and shadow to GIF */
-        img {
-            transition: transform 0.3s ease;
-            border-radius: 12px;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        }
+    .dropdown-content a:hover {
+      background-color: #f0f0f0;
+    }
 
-        img:hover {
-            transform: scale(1.05);
-        }
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
 
-        /* Spotify iframe effects */
-        iframe {
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease;
-        }
+    .dropdown .btn {
+      cursor: pointer;
+    }
 
-        iframe:hover {
-            transform: scale(1.03);
-        }
+    .media {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 40px;
+    }
 
-        /* Adding a cool hover effect for menu links */
-        nav li a:before {
-            content: '';
-            position: absolute;
-            width: 100%;
-            height: 4px;
-            background-color: white;
-            bottom: 0;
-            left: 0;
-            transform: scaleX(0);
-            transform-origin: bottom right;
-            transition: transform 0.3s ease-out;
-        }
+    img {
+      width: 280px;
+      border-radius: 16px;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+      transition: transform 0.3s ease;
+    }
 
-        nav li a:hover:before {
-            transform: scaleX(1);
-            transform-origin: bottom left;
-        }
+    img:hover {
+      transform: scale(1.05);
+    }
 
-    </style>
+    iframe {
+      margin-top: 20px;
+      border-radius: 12px;
+      width: 100%;
+      max-width: 600px;
+      height: 352px;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #555;
+    }
+  </style>
 </head>
+
 <body>
-<nav>
-    <ul>
-        <li><a href="#">Notebooks</a>        
-            <ul>
-                <li><a href="http://127.0.0.1:4100/gabi_2025/interests/">My interests</a></li>
-                <li><a href="http://127.0.0.1:4100/gabi_2025/process/">Sprint 1 Summary</a></li>
-                <li><a href="http://127.0.0.1:4100/gabi_2025/java_cell/">Java Cell</a></li>
-            </ul>
-        <li><a href="#">Games</a>
-            <ul>
-                <li><a href="http://127.0.0.1:4100/gabi_2025/counter/">Cookie Counter</a></li>
-                <li><a href="http://127.0.0.1:4100/gabi_2025/calculator/">Binary Calculator</a></li>
-                <li><a href="http://127.0.0.1:4100/gabi_2025/snake/">Snake Game</a></li>
-            </ul>
-        </li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/sprint2/">Big Idea 3</a>
-        </li>
-         </li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/sprint3/">Sprint 3</a>
-        </li>
-         <li><a href="https://gabrielac07.github.io/gabi_2025/2018_MCQ/">AP Classroom 2018 MCQ</a>
-        </li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/extra_credit/">Student Panel Extra Credit</a>
-        </li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/real_PPR/">PPR</a>
-        </li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/big_idea1/">Big Idea 1</a>
-        </li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/final/">Final Retrospective</a>
-        </li>
-        <li><a href="https://gabrielac07.github.io/gabi_2025/2020_MCQ/">AP Classroom 2020 MCQ</a>
-    </ul>
-</nav>
+  <section>
+    <h1>Welcome to Gabi’s GitHub Portfolio!</h1>
+    <p>This site showcases my work with notebooks, projects, games, and reflections from the 2025 school year. Click around and explore!</p>
 
-<br><br><br>
-<img src="https://media0.giphy.com/media/XuL4Zlq33sCTC/giphy.gif?cid=6c09b952roqx9x1uhiur86tdfrwrq0q7egmey7t2b4mz51p1&ep=v1_gifs_search&rid=giphy.gif&ct=s" alt="mario">
+    <h2>About</h2>
+    <div class="button-grid">
+      <a class="btn" href="gabi_2025/about">About Me</a>
+      <a class="btn" href="https://github.com/gabrielac07" target="_blank">My GitHub Profile</a>
+    </div>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5XOGgDmdRe2CUHruz2l9TM?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <h2>Interests</h2>
+    <div class="button-grid">
+      <a class="btn" href="gabi_2025/brazil">Brazil</a>
+      <a class="btn" href="gabi_2025/spaniels">Spaniels</a>
+      <a class="btn" href="gabi_2025/tennis">Tennis</a>
+      <a class="btn" href="gabi_2025/random">Random</a>
+      <a class="btn" href="gabi_2025/interests">My Interests</a>
+    </div>
 
+    <h2>College Board – AP Computer Science Principles</h2>
+    <div class="dropdown">
+      <div class="btn">College Board Content ▼</div>
+      <div class="dropdown-content">
+        <a href="gabi_2025/base64">Base64</a>
+        <a href="gabi_2025/2021_MCQ">2021 MCQ</a>
+        <a href="gabi_2025/study">Study Blog</a>
+        <a href="gabi_2025/big_idea1">Big Idea 1</a>
+        <a href="gabi_2025/3.1_and_3.4_hacks">Big Idea 3.1 and 3.4</a>
+        <a href="gabi_2025/3.3_and_3.5_hacks">Big Idea 3.3 and 3.5</a>
+        <a href="gabi_2025/3.6_and_3.7_hacks">Big Idea 3.6 and 3.7</a>
+        <a href="gabi_2025/3.10_hacks">Big Idea 3.10</a>
+        <a href="gabi_2025/3.8_hacks">Big Idea 3.8</a>
+        <a href="gabi_2025/ComputingBias">Computing Bias</a>
+        <a href="gabi_2025/binary_search">Binary Search</a>
+        <a href="gabi_2025/random">Simulations</a>
+        <a href="gabi_2025/safe_computing">Safe Computing</a>
+        <a href="gabi_2025/2018mcq">2018 MCQ</a>
+        <a href="gabi_2025/PPR">PPR</a>
+      </div>
+    </div>
+
+    <h2>Classwork and Projects</h2>
+    <div class="dropdown">
+      <div class="btn">Class Projects ▼</div>
+      <div class="dropdown-content">
+        <a href="gabi_2025/sprint2">Sprint 2</a>
+        <a href="gabi_2025/final_hack">Sprint 2 Notebook</a>
+        <a href="gabi_2025/sprint3">Sprint 3</a>
+        <a href="gabi_2025/sprint4">Sprint 4</a>
+        <a href="gabi_2025/tri3_blog">Tri 3 Blog</a>
+        <a href="gabi_2025/cybersecurity">Cybersecurity Panel</a>
+        <a href="gabi_2025/extra_credit_blog">CS Student Panel</a>
+        <a href="gabi_2025/real_PPR">Real PPR</a>
+        <a href="gabi_2025/final">Final Project</a>
+        <a href="gabi_2025/calculator">Calculator</a>
+        <a href="gabi_2025/counter">Counter</a>
+        <a href="gabi_2025/snake">Snake Game</a>
+        <a href="gabi_2025/tools">Tools</a>
+        <a href="gabi_2025/process">GitHub Pages</a>
+        <a href="gabi_2025/java">Coding with Java</a>
+      </div>
+    </div>
+
+    <div class="media">
+      <img src="https://media0.giphy.com/media/XuL4Zlq33sCTC/giphy.gif?cid=6c09b952roqx9x1uhiur86tdfrwrq0q7egmey7t2b4mz51p1&ep=v1_gifs_search&rid=giphy.gif&ct=s" alt="mario">
+      <iframe src="https://open.spotify.com/embed/playlist/5XOGgDmdRe2CUHruz2l9TM?utm_source=generator&theme=0" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+  </section>
+
+  <footer>
+    <p>Made with 💻 by Gabrielac | © 2025</p>
+  </footer>
 </body>
 </html>
