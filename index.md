@@ -12,6 +12,7 @@ hide: true
   <title>Gabi’s GitHub Page</title>
   <style>
     body {
+      
       font-family: 'Segoe UI', sans-serif;
       margin: 0;
       padding: 0;
