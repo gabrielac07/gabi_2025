@@ -99,8 +99,9 @@ hide: true
     <h2>About</h2>
     <div class="button-grid">
       <a class="btn" href="/about">About Me</a>
-      <a class="btn" href="https://github.com/gabrielac07" target="_blank">My GitHub Profile</a>
-      <a class="btn" href="https://www.linkedin.com/in/gabriela-connelly-701687365" target="_blank">My Linkedin Profile</a>
+      <a class="btn" href="https://github.com/gabrielac07" target="_blank">GitHub</a>
+      <a class="btn" href="https://www.linkedin.com/in/gabriela-connelly-701687365" target="_blank">Linkedin</a>
+      <a class="btn" href="https://cs-p-hq.slack.com/team/U07HRPRKQHL" target="_blank">Slack</a>
     </div>
 
     <h2>Explore My Work</h2>

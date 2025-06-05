@@ -12,16 +12,16 @@ Welcome to the corner of my site where I share things that make me smile, think,
 
 ## 🌍 Things I Love
 
-- 🇧🇷 [**Brazil**](/brazil)  
+- 🇧🇷 [**Brazil**](https://gabrielac07.github.io/gabi_2025/brazil)  
   From vibrant culture to beautiful landscapes, Brazil has a special place in my heart.
 
-- 🐶 [**Spaniels**](/spaniels)  
+- 🐶 [**Spaniels**](https://gabrielac07.github.io/gabi_2025/spaniels)  
   Floppy ears, waggy tails, and endless cuddles — spaniels are pure joy.
 
-- 🎾 [**Tennis**](/tennis)  
+- 🎾 [**Tennis**](https://gabrielac07.github.io/gabi_2025/tennis)  
   A sport that keeps me on my toes — literally! Serving up passion and power.
 
-- 💖 [**My Interests**](/interests)  
+- 💖 [**My Interests**](https://gabrielac07.github.io/gabi_2025/interests)  
 
 ---
 
