@@ -105,9 +105,9 @@ hide: true
 
     <h2>Explore My Work</h2>
     <div class="button-grid">
-      <a class="btn" href="/projects/">📁 Classwork & Projects</a>
-      <a class="btn" href="/my_interests/">💖 My Interests</a>
-      <a class="btn" href="/college_board/">🧠 College Board Content</a>
+      <a class="btn" href="https://gabrielac07.github.io/gabi_2025/projects/">📁 Classwork & Projects</a>
+      <a class="btn" href="https://gabrielac07.github.io/gabi_2025/my_interests/">💖 My Interests</a>
+      <a class="btn" href="https://gabrielac07.github.io/gabi_2025/college_board/">🧠 College Board Content</a>
     </div>
 
     <div class="media">

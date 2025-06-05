@@ -13,41 +13,41 @@ Here you'll find everything from sprints to side projects — a journey through 
 
 ## 🚀 Sprints & Reflections
 
-- 🏁 [Sprint 2](/sprint2)  
-- 📓 [Sprint 2 Notebook](/final_hack)  
-- 🚧 [Sprint 3](/sprint3)  
-- 🛠️ [Sprint 4](/sprint4)  
-- 📝 [Tri 3 Blog](/tri3_blog)
+- 🏁 [Sprint 2](https://gabrielac07.github.io/gabi_2025/sprint2)  
+- 📓 [Sprint 2 Notebook](https://gabrielac07.github.io/gabi_2025/final_hack)  
+- 🚧 [Sprint 3](https://gabrielac07.github.io/gabi_2025/sprint3)  
+- 🛠️ [Sprint 4](https://gabrielac07.github.io/gabi_2025/sprint4)  
+- 📝 [Tri 3 Blog](https://gabrielac07.github.io/gabi_2025/tri3_blog)
 
 ---
 
 ## 🎤 Panels & Presentations
 
-- 🔐 [Cybersecurity Panel](/cybersecurity)  
-- 👩‍💻 [CS Student Panel](/extra_credit_blog)
+- 🔐 [Cybersecurity Panel](https://gabrielac07.github.io/gabi_2025/cybersecurity)  
+- 👩‍💻 [CS Student Panel](https://gabrielac07.github.io/gabi_2025/extra_credit_blog)
 
 ---
 
 ## 📌 Major Submissions
 
-- 📄 [Real PPR](/real_PPR)  
-- 🎯 [Final Project](/final)
+- 📄 [Real PPR](https://gabrielac07.github.io/gabi_2025/real_PPR)  
+- 🎯 [Final Project](https://gabrielac07.github.io/gabi_2025/final)
 
 ---
 
 ## 🎮 Mini Projects
 
-- 🧮 [Calculator](/calculator)  
-- 🔢 [Counter](/counter)  
-- 🐍 [Snake Game](/snake)
+- 🧮 [Calculator](https://gabrielac07.github.io/gabi_2025/calculator)  
+- 🔢 [Counter](https://gabrielac07.github.io/gabi_2025/counter)  
+- 🐍 [Snake Game](https://gabrielac07.github.io/gabi_2025/snake)
 
 ---
 
 ## 🧰 Tools & Skills
 
-- 🛠️ [Tools](/tools)  
-- 🌐 [GitHub Pages](/process)  
-- ☕ [Coding with Java](/java)
+- 🛠️ [Tools](https://gabrielac07.github.io/gabi_2025/tools)  
+- 🌐 [GitHub Pages](https://gabrielac07.github.io/gabi_2025/process)  
+- ☕ [Coding with Java](https://gabrielac07.github.io/gabi_2025/java)
 
 ---
 
