@@ -97,7 +97,7 @@ hide: true
     <p>This site showcases my work with notebooks, projects, games, and reflections from the 2024-2025 school year. Click around and explore!</p>
 
     <h2>Virtual Business Card</h2>
-  <img src="/images/frame.png" alt="Contact info" width="300px" height="200px">
+![img](images/frame.png)
 
 
     <h2>About</h2>
