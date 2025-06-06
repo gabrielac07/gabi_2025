@@ -97,7 +97,10 @@ hide: true
     <p>This site showcases my work with notebooks, projects, games, and reflections from the 2024-2025 school year. Click around and explore!</p>
 
     <h2>Virtual Business Card</h2>
-![img](https://gabrielac07.github.io/gabi_2025/images/frame.png)
+  <div class="media">
+    <img src="images/frame.png" alt="virtual business card">
+  </div>
+
 
 
     <h2>About</h2>
