@@ -121,10 +121,6 @@ hide: true
 
     <div class="media">
       <img src="https://media0.giphy.com/media/XuL4Zlq33sCTC/giphy.gif?cid=6c09b952roqx9x1uhiur86tdfrwrq0q7egmey7t2b4mz51p1&ep=v1_gifs_search&rid=giphy.gif&ct=s" alt="mario">
-  </section>
-
   <footer>
     <p>Made with 💻 by Gabrielac | © 2025</p>
   </footer>
-</body>
-</html>
