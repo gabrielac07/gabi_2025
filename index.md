@@ -96,9 +96,10 @@ hide: true
     <h1>Welcome to Gabi’s GitHub Portfolio!</h1>
     <p>This site showcases my work with notebooks, projects, games, and reflections from the 2024-2025 school year. Click around and explore!</p>
 
-    <h2>Virtual Business Card</h2>
+  <h2>Virtual Business Card</h2>
   <div class="media">
-    <img src="images/frame.png" alt="virtual business card">
+    <p>Scan the QR code below or <a href="https://gabi-c.carrd.co/" target="_blank" style="color: #155f91; font-weight: bold;">click here</a> to view my card.</p>
+    <img src="images/frame.png" alt="QR code for business card">
   </div>
 
 
