@@ -107,6 +107,7 @@ hide: true
     <h2>About</h2>
     <div class="button-grid">
       <a class="btn" href="/about">About Me</a>
+      <a class="btn" href="https://www.canva.com/design/DAGpmeBq5cA/5brE4UkdJCRV71rb7aLjfw/view?utm_content=DAGpmeBq5cA&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel" target="_blank">My Resume</a>
       <a class="btn" href="https://github.com/gabrielac07" target="_blank">GitHub</a>
       <a class="btn" href="https://www.linkedin.com/in/gabriela-connelly-701687365" target="_blank">Linkedin</a>
       <a class="btn" href="https://cs-p-hq.slack.com/team/U07HRPRKQHL" target="_blank">Slack</a>
@@ -117,6 +118,7 @@ hide: true
       <a class="btn" href="https://gabrielac07.github.io/gabi_2025/projects/">📁 Classwork & Projects</a>
       <a class="btn" href="https://gabrielac07.github.io/gabi_2025/my_interests/">💖 My Interests</a>
       <a class="btn" href="https://gabrielac07.github.io/gabi_2025/college_board/">🧠 College Board Content</a>
+      <a class="btn" href="https://gabrielac07.github.io/gabi_2025/blog_reflection/">Blog reflection</a>
     </div>
 
     <div class="media">
