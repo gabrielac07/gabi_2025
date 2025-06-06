@@ -94,7 +94,11 @@ hide: true
 <body>
   <section>
     <h1>Welcome to Gabi’s GitHub Portfolio!</h1>
-    <p>This site showcases my work with notebooks, projects, games, and reflections from the 2025 school year. Click around and explore!</p>
+    <p>This site showcases my work with notebooks, projects, games, and reflections from the 2024-2025 school year. Click around and explore!</p>
+
+    <h2>Virtual Business Card</h2>
+  <img src="/images/frame.png" alt="Contact info" width="300px" height="200px">
+
 
     <h2>About</h2>
     <div class="button-grid">
@@ -113,8 +117,6 @@ hide: true
 
     <div class="media">
       <img src="https://media0.giphy.com/media/XuL4Zlq33sCTC/giphy.gif?cid=6c09b952roqx9x1uhiur86tdfrwrq0q7egmey7t2b4mz51p1&ep=v1_gifs_search&rid=giphy.gif&ct=s" alt="mario">
-      <iframe src="https://open.spotify.com/embed/playlist/5XOGgDmdRe2CUHruz2l9TM?utm_source=generator&theme=0" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </div>
   </section>
 
   <footer>
