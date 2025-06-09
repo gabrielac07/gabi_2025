@@ -118,7 +118,7 @@ hide: true
       <a class="btn" href="https://gabrielac07.github.io/gabi_2025/projects/">📁 Classwork & Projects</a>
       <a class="btn" href="https://gabrielac07.github.io/gabi_2025/my_interests/">💖 My Interests</a>
       <a class="btn" href="https://gabrielac07.github.io/gabi_2025/college_board/">🧠 College Board Content</a>
-      <a class="btn" href="https://gabrielac07.github.io/gabi_2025/blog_reflection/">Blog reflection</a>
+      <a class="btn" href="https://gabrielac07.github.io/gabi_2025/my_blog_reflection/">Blog reflection</a>
     </div>
 
     <div class="media">
